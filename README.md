@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Eliasilyz/Learn-Code/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 ## Greedy
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 ## Binary Indexed Tree
 |  |
 | ------- |
