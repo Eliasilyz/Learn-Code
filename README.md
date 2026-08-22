@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/Eliasilyz/Learn-Code/tree/master/2899-last-visited-integers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## String
 |  |
 | ------- |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eliasilyz/Learn-Code/tree/master/0014-longest-common-prefix) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Queue
 |  |
 | ------- |
@@ -308,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Eliasilyz/Learn-Code/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Eliasilyz/Learn-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Eliasilyz/Learn-Code/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+## Rolling Hash
+|  |
+| ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## String Matching
+|  |
+| ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 <!---LeetCode Topics End-->
