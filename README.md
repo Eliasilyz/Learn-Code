@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Eliasilyz/Learn-Code/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
+| [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
+| [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+| [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 ## Sliding Window
 |  |
 | ------- |
