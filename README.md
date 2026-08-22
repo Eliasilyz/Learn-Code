@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
+| [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Eliasilyz/Learn-Code/tree/master/0554-brick-wall) |
 | [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
+| [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
+| [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
