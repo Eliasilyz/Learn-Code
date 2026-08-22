@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Merge Sort
 |  |
 | ------- |
