@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Eliasilyz/Learn-Code/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Eliasilyz/Learn-Code/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Eliasilyz/Learn-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+## Sliding Window
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
