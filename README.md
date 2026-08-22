@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Eliasilyz/Learn-Code/tree/master/0554-brick-wall) |
 | [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0518-coin-change-ii) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Graph Theory
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2536-increment-submatrices-by-one](https://github.com/Eliasilyz/Learn-Code/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Eliasilyz/Learn-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Eliasilyz/Learn-Code/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
