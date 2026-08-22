@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Eliasilyz/Learn-Code/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Eliasilyz/Learn-Code/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Tree
 |  |
 | ------- |
