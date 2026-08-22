@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Eliasilyz/Learn-Code/tree/master/0554-brick-wall) |
 | [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Eliasilyz/Learn-Code/tree/master/0554-brick-wall) |
+| [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
+| [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
