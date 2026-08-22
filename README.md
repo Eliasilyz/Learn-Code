@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eliasilyz/Learn-Code/tree/master/0014-longest-common-prefix) |
+| [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Eliasilyz/Learn-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
