@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Eliasilyz/Learn-Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
