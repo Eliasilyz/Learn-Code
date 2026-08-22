@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0518-coin-change-ii) |
 | [0554-brick-wall](https://github.com/Eliasilyz/Learn-Code/tree/master/0554-brick-wall) |
+| [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
