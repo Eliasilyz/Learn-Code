@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
+| [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 ## String
 |  |
 | ------- |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
+| [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 ## Greedy
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
+| [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
+| [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 ## Tree
 |  |
 | ------- |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
