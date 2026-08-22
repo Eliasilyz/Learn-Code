@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
+| [1206-design-skiplist](https://github.com/Eliasilyz/Learn-Code/tree/master/1206-design-skiplist) |
 ## Design
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
+| [1206-design-skiplist](https://github.com/Eliasilyz/Learn-Code/tree/master/1206-design-skiplist) |
 ## Doubly-Linked List
 |  |
 | ------- |
