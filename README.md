@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Graph Theory
+|  |
+| ------- |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/2359-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
