@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
+| [0816-ambiguous-coordinates](https://github.com/Eliasilyz/Learn-Code/tree/master/0816-ambiguous-coordinates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Eliasilyz/Learn-Code/tree/master/0641-design-circular-deque) |
+## Backtracking
+|  |
+| ------- |
+| [0816-ambiguous-coordinates](https://github.com/Eliasilyz/Learn-Code/tree/master/0816-ambiguous-coordinates) |
+## Enumeration
+|  |
+| ------- |
+| [0816-ambiguous-coordinates](https://github.com/Eliasilyz/Learn-Code/tree/master/0816-ambiguous-coordinates) |
 <!---LeetCode Topics End-->
