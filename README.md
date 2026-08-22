@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Eliasilyz/Learn-Code/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Eliasilyz/Learn-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Eliasilyz/Learn-Code/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2899-last-visited-integers](https://github.com/Eliasilyz/Learn-Code/tree/master/2899-last-visited-integers) |
 ## String
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
 | [2502-design-memory-allocator](https://github.com/Eliasilyz/Learn-Code/tree/master/2502-design-memory-allocator) |
+| [2899-last-visited-integers](https://github.com/Eliasilyz/Learn-Code/tree/master/2899-last-visited-integers) |
 ## Matrix
 |  |
 | ------- |
