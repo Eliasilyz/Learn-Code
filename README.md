@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Eliasilyz/Learn-Code/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1927-sum-game](https://github.com/Eliasilyz/Learn-Code/tree/master/1927-sum-game) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Eliasilyz/Learn-Code/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1927-sum-game](https://github.com/Eliasilyz/Learn-Code/tree/master/1927-sum-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Eliasilyz/Learn-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
+| [1927-sum-game](https://github.com/Eliasilyz/Learn-Code/tree/master/1927-sum-game) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
+| [1927-sum-game](https://github.com/Eliasilyz/Learn-Code/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
