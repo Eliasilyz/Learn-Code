@@ -14,7 +14,7 @@ public:
             if (num[i] == '?') qRight++;
             else diff -= num[i] - '0';
         }
-        
+
         if ((qLeft + qRight) % 2 != 0)
             return true;
 
