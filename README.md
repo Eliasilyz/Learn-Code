@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Eliasilyz/Learn-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Eliasilyz/Learn-Code/tree/master/0014-longest-common-prefix) |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0518-coin-change-ii) |
 | [0554-brick-wall](https://github.com/Eliasilyz/Learn-Code/tree/master/0554-brick-wall) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Eliasilyz/Learn-Code/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Eliasilyz/Learn-Code/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
@@ -352,4 +358,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
