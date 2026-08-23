@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Eliasilyz/Learn-Code/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/Eliasilyz/Learn-Code/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0816-ambiguous-coordinates](https://github.com/Eliasilyz/Learn-Code/tree/master/0816-ambiguous-coordinates) |
 ## Enumeration
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Eliasilyz/Learn-Code/tree/master/2360-longest-cycle-in-a-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Topological Sort
