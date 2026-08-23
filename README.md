@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eliasilyz/Learn-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Eliasilyz/Learn-Code/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0518-coin-change-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eliasilyz/Learn-Code/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
