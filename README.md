@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Eliasilyz/Learn-Code/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Database
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Eliasilyz/Learn-Code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Eliasilyz/Learn-Code/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Tree
 |  |
 | ------- |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -307,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 ## Sliding Window
 |  |
@@ -391,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
