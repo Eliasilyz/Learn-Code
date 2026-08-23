@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Eliasilyz/Learn-Code/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Eliasilyz/Learn-Code/tree/master/0622-design-circular-queue) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 ## Knapsack Problem
 |  |
