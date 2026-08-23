@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0705-design-hashset](https://github.com/Eliasilyz/Learn-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
+| [0722-remove-comments](https://github.com/Eliasilyz/Learn-Code/tree/master/0722-remove-comments) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Eliasilyz/Learn-Code/tree/master/0535-encode-and-decode-tinyurl) |
+| [0722-remove-comments](https://github.com/Eliasilyz/Learn-Code/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
 | [0816-ambiguous-coordinates](https://github.com/Eliasilyz/Learn-Code/tree/master/0816-ambiguous-coordinates) |
