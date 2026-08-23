@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Eliasilyz/Learn-Code/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Eliasilyz/Learn-Code/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/Eliasilyz/Learn-Code/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Eliasilyz/Learn-Code/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Eliasilyz/Learn-Code/tree/master/1517-find-users-with-valid-e-mails) |
 ## Dynamic Programming
 |  |
