@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Eliasilyz/Learn-Code/tree/master/2360-longest-cycle-in-a-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
