@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Eliasilyz/Learn-Code/tree/master/1649-create-sorted-array-through-instructions) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Eliasilyz/Learn-Code/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Eliasilyz/Learn-Code/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Eliasilyz/Learn-Code/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Eliasilyz/Learn-Code/tree/master/1927-sum-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Eliasilyz/Learn-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Eliasilyz/Learn-Code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -150,16 +153,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/Eliasilyz/Learn-Code/tree/master/0843-guess-the-word) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Eliasilyz/Learn-Code/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Eliasilyz/Learn-Code/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -363,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Eliasilyz/Learn-Code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1872-stone-game-viii](https://github.com/Eliasilyz/Learn-Code/tree/master/1872-stone-game-viii) |
 | [2536-increment-submatrices-by-one](https://github.com/Eliasilyz/Learn-Code/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Eliasilyz/Learn-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Eliasilyz/Learn-Code/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
