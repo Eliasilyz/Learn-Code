@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Eliasilyz/Learn-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
 | [2502-design-memory-allocator](https://github.com/Eliasilyz/Learn-Code/tree/master/2502-design-memory-allocator) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Eliasilyz/Learn-Code/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Eliasilyz/Learn-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
