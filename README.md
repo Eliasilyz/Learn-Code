@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Eliasilyz/Learn-Code/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
 | [0770-basic-calculator-iv](https://github.com/Eliasilyz/Learn-Code/tree/master/0770-basic-calculator-iv) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Eliasilyz/Learn-Code/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/Eliasilyz/Learn-Code/tree/master/1488-avoid-flood-in-the-city) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Eliasilyz/Learn-Code/tree/master/2182-construct-string-with-repeat-limit) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
 | [0726-number-of-atoms](https://github.com/Eliasilyz/Learn-Code/tree/master/0726-number-of-atoms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Eliasilyz/Learn-Code/tree/master/2360-longest-cycle-in-a-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
