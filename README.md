@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
+| [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/0222-count-complete-tree-nodes) |
+| [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Stack
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
+| [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Eliasilyz/Learn-Code/tree/master/0332-reconstruct-itinerary) |
+| [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Eliasilyz/Learn-Code/tree/master/2360-longest-cycle-in-a-graph) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Eliasilyz/Learn-Code/tree/master/0301-remove-invalid-parentheses) |
+| [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Eliasilyz/Learn-Code/tree/master/2360-longest-cycle-in-a-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Eliasilyz/Learn-Code/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Topological Sort
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
 ## Meet in the Middle
 |  |
