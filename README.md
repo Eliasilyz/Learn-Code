@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Eliasilyz/Learn-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Eliasilyz/Learn-Code/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Eliasilyz/Learn-Code/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eliasilyz/Learn-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Eliasilyz/Learn-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Graph Theory
 |  |
 | ------- |
