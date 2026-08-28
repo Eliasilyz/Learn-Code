@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/Eliasilyz/Learn-Code/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Eliasilyz/Learn-Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0466-count-the-repetitions](https://github.com/Eliasilyz/Learn-Code/tree/master/0466-count-the-repetitions) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Eliasilyz/Learn-Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/Eliasilyz/Learn-Code/tree/master/0816-ambiguous-coordinates) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Eliasilyz/Learn-Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
