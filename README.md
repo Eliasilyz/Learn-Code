@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/Eliasilyz/Learn-Code/tree/master/2899-last-visited-integers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Eliasilyz/Learn-Code/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Eliasilyz/Learn-Code/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Eliasilyz/Learn-Code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Eliasilyz/Learn-Code/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2363-merge-similar-items](https://github.com/Eliasilyz/Learn-Code/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/Eliasilyz/Learn-Code/tree/master/2402-meeting-rooms-iii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Eliasilyz/Learn-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Eliasilyz/Learn-Code/tree/master/1361-validate-binary-tree-nodes) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Eliasilyz/Learn-Code/tree/master/1632-rank-transform-of-a-matrix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Eliasilyz/Learn-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Meet in the Middle
 |  |
 | ------- |
